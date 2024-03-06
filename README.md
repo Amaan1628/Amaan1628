@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: syedamaanali30@gmail.com
 
 <h3 align="left">Languages:</h3>
-</a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a>  </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+</a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a>
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>

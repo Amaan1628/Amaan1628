@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Backend:</h3>
 <img width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/8a89cd89-e4eb-4ccd-8457-db0575d24274">
 <img width="100" height="40" alt="Expressjs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-<img width="100" height="40" alt="Expressjs" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png">
+<img width="100" height="40" alt="Expressjs" src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png">
 
 
 <h3 align="left"> Database: </h3>

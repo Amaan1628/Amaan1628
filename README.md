@@ -16,6 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github.com/Amaan1628/Amaan1628/assets/118141092/55388121-58d1-43ee-a3e3-a7da61bb29e5" width="40" height="40">
 <img src="https://github.com/Amaan1628/Amaan1628/assets/118141092/8a89cd89-e4eb-4ccd-8457-db0575d24274" decoding="async" width="40" height="40">
 <img width="128" alt="Expressjs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+<img width="128" alt="React" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png">
 
 <h3 align="left"> Database: </h3>
 <img src="https://github.com/Amaan1628/Amaan1628/assets/118141092/03d7900f-1906-450d-be3d-2284860e8a3b" width="40" height="40">

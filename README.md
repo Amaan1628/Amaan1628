@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/8a89cd89-e4eb-4ccd-8457-db0575d24274">
 <img width="128" height="40" alt="Expressjs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
 <img width="40" height="40" alt="React" src="https://cdn1.iconfinder.com/data/icons/education-set-3-3/74/15-512.png">
-<img width="40" height="40" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png">
+<img width="70" height="40" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png">
 
 <h3 align="left"> Database: </h3>
 <img  width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/03d7900f-1906-450d-be3d-2284860e8a3b">

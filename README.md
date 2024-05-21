@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width="40" height="40" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png">
 <img widtth="40" height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png">
 <img width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/55388121-58d1-43ee-a3e3-a7da61bb29e5">
-<img width="80" height="40" src="https://logowik.com/content/uploads/images/tailwind-css7675.logowik.com.webp">
+<img width="80" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png">
 
 
 <h3 align="left">Backend:</h3>

@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Amaan Ali
 ======================================================================================================================================
 
-- 🌱 I’m Interested to work on Web Development or Database projects / roles.
+- 🌱 I’m Interested to work on Database Roles ,Web Development or Operations roles.
 - 📫 Reach me : syedamaanali30@gmail.com
 
 <h3 align="left">Languages:</h3>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> 
 
 
 <h3 align="left">Frameworks and Tools:</h3>
@@ -18,10 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/55388121-58d1-43ee-a3e3-a7da61bb29e5">
 <img width="80" height="40" src="https://icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png">
 
-
-<h3 align="left">Backend:</h3>
-<img width="40" height="40" src="https://github.com/Amaan1628/Amaan1628/assets/118141092/8a89cd89-e4eb-4ccd-8457-db0575d24274">
-<img width="100" height="35" alt="Expressjs" src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png">
 
 
 <h3 align="left"> Database: </h3>
